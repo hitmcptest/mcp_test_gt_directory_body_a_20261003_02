@@ -1,0 +1,2 @@
+# mcp_test_gt_directory_body_a_20261003_02
+mcp_test_ isolated directory field contrast second fixture
